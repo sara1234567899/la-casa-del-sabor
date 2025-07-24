@@ -97,6 +97,9 @@ width: 170px;
     width:400px;
     border-radius:20px;
 }
+.logo img [
+aling-items:flex-end;
+}
 
 
 
