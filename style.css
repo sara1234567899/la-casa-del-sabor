@@ -94,17 +94,10 @@ color: white;
 width: 170px;
 }
 .imagen img {
-    display: flex;
-    justify-items: end;
-    width: 400px;
-    border-radius: 20px
-    
+    width:400px;
+    border-radius:20px;
 }
 
-.producto{
-display: flex;
-flex-direction: column;
-gap: 20px;
-}
+
 
 
